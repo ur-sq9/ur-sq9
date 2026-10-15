@@ -6,7 +6,7 @@ Open to **full-time (remote) positions** and **freelance contracts**.
 
 ## 🚀 Featured Project: Petfinder
 
-Lost pet recovery platform connecting communities. Built in **5 weeks solo** with production architecture: recursive comments, Typesense search, Redis caching, soft-deletes, and comprehensive tests.
+Lost pet recovery platform connecting communities. Built in **6 weeks solo** with production architecture: recursive comments, Typesense search, Redis caching, soft-deletes, and comprehensive tests.
 
 [View Full Details →](https://github.com/ur-sq9/Petfinder-Webapp-documentation)
 
