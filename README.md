@@ -2,7 +2,7 @@
 
 Full-stack developer building production systems. Fast learner who thinks like a senior engineer but executes like someone hungry to prove it.
 
-Open to **full-time positions** and **freelance contracts**.
+Open to **full-time (remote) positions** and **freelance contracts**.
 
 ## 🚀 Featured Project: Petfinder
 
