@@ -8,6 +8,12 @@ Open to **full-time (remote) positions** and **freelance contracts**.
 
 Lost pet recovery platform connecting communities. Built in **6 weeks solo** with production architecture: recursive comments, Typesense search, Redis caching, soft-deletes, and comprehensive tests.
 
+### Demo Video
+
+<a href="https://vimeo.com/user264746150/petfinder-demo?fl=ip&fe=ec">
+  <img width="1691" height="680" alt="thumbnail" src="https://github.com/user-attachments/assets/e89aac4e-177f-48d1-92fd-4c6ec5baa152" />
+</a>
+
 [View Full Details →](https://github.com/ur-sq9/Petfinder-Webapp-documentation)
 
 ## 📁 Other Projects
